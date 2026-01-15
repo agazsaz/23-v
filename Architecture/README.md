@@ -1,0 +1,1 @@
+Xv(YvZ)v((X>Y)vgitZ)=00001111
