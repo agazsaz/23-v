@@ -34,6 +34,7 @@
 Система технических средств для осуществления телекоммуникаций.
 
 **Структура телекоммуникационной сети:**
+<img width="522" height="407" alt="image" src="https://github.com/user-attachments/assets/f8f8eb5d-90d3-4697-a39e-967a0da7b44c" />
 
 ### Типы телекоммуникационных сетей:
 - Компьютерные сети (передача данных)
@@ -41,6 +42,7 @@
 - Радиосети (широковещательные услуги)
 - Телеграфные сети (текстовые сообщения)
 - Телевизионные сети
+<img width="604" height="391" alt="image" src="https://github.com/user-attachments/assets/b082ce69-7f19-4f5f-9ec5-e0e0be7b8cbb" />
 
 ## 4. Классификации сетей
 
@@ -112,6 +114,12 @@
 | 1988 | Червь Морриса | Первая крупная кибератака, создание CERT |
 | 1991-92 | Изобретение WWW | Тим Бернерс-Ли (CERN) |
 | 1995 | Коммерциализация Интернета | Появление ISP, современная структура |
+<img width="855" height="392" alt="image" src="https://github.com/user-attachments/assets/374ebd15-e2d9-45db-ab59-9409adb065ca" />
+
+<img width="250" height="243" alt="image" src="https://github.com/user-attachments/assets/237325be-8a55-426a-8a86-a728c9d440b0" />
+
+<img width="456" height="599" alt="image" src="https://github.com/user-attachments/assets/e560900e-199d-47f3-8574-2c07f71fc336" />
+
 
 ## 7. Сетевые модели и протоколы
 
