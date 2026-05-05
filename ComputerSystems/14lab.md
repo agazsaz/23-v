@@ -62,9 +62,15 @@
 | 2 | Звуковое устройство | `HDAUDIO\FUNC_01&VEN_11D4&DEV_194A&SUBSYS_10280420&REV_1004
 .` | `10.0.17763.8641` | 
  |
-| 3 | Процессор | `ACPI\GenuineIntel_...` (пример) | `XX.XX.XX.XX` | Обновление не требуется (системное) |
-| 4 | Дисковое устройство | `IDE\...` или `SCSI\...` | `XX.XX.XX.XX` | Доступна прошивка / Драйвер не найден |
-| 5 | Сетевой адаптер | `PCI\VEN_...&DEV_...` | `XX.XX.XX.XX` | `YY.YY.YY.YY` [Скриншот](screenshots/network_driver.png) |
+| 3 | Процессор | `ACPI\GenuineIntel_-_Intel64_Family_6_Model_23
+`  | `10.0.17763.7553` | <img width="400" height="456" alt="image" src="https://github.com/user-attachments/assets/3a462aac-989c-4ddb-a6f1-8b75987ff938" />
+ |
+| 4 | Дисковое устройство | `SCSI\DiskKODAK_____SSD_X100_120GBU031
+` | `10.0.17763.6054` | <img width="401" height="518" alt="image" src="https://github.com/user-attachments/assets/bfc71d2b-1f12-47dd-a9eb-2c6ed7462a2e" />
+ |
+| 5 | Сетевой адаптер | `PCI\VEN_8086&DEV_10DE&SUBSYS_02761028&REV_02
+` | `12.15.22.6` | `<img width="399" height="450" alt="image" src="https://github.com/user-attachments/assets/016b9ca4-f163-4358-a98e-8e8ef22cf299" />
+` |
 
 **Примечание:** ИД оборудования и точные версии драйверов зависят от конкретной конфигурации рабочего места.
 
