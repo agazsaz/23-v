@@ -53,24 +53,13 @@
 
 ### Таблица версий и поиска драйверов
 
-| № | Оборудование | ID оборудования | Версия драйвера (текущая) | Новая версия драйвера (Результат поиска) |
-|---|--------------|-----------------|----------------------------|------------------------------------------|
-| 1 | Видеоадаптер | `PCI\VEN_8086&DEV_2E12&SUBSYS_04201028&REV_03
-` | `8.15.10.2702` | `<img width="401" height="453" alt="image" src="https://github.com/user-attachments/assets/e627a1e5-eb1f-4ed3-910c-4429170d0ee9"`   />
- />
-|
-| 2 | Звуковое устройство | `HDAUDIO\FUNC_01&VEN_11D4&DEV_194A&SUBSYS_10280420&REV_1004
-.` | `10.0.17763.8641` | 
- |
-| 3 | Процессор | `ACPI\GenuineIntel_-_Intel64_Family_6_Model_23
-`  | `10.0.17763.7553` | <img width="400" height="456" alt="image" src="https://github.com/user-attachments/assets/3a462aac-989c-4ddb-a6f1-8b75987ff938" />
- |
-| 4 | Дисковое устройство | `SCSI\DiskKODAK_____SSD_X100_120GBU031
-` | `10.0.17763.6054` | <img width="401" height="518" alt="image" src="https://github.com/user-attachments/assets/bfc71d2b-1f12-47dd-a9eb-2c6ed7462a2e" />
- |
-| 5 | Сетевой адаптер | `PCI\VEN_8086&DEV_10DE&SUBSYS_02761028&REV_02
-` | `12.15.22.6` | `<img width="399" height="450" alt="image" src="https://github.com/user-attachments/assets/016b9ca4-f163-4358-a98e-8e8ef22cf299" />
-` |
+| № | Оборудование | ID оборудования | Версия драйвера (текущая) | Новая версия драйвера (поиск) |
+|---|---|---|---|---|
+| 1 | Видеоадаптер | `PCI\VEN_8086&DEV_2E12&SUBSYS_04201028&REV_03` | `8.15.10.2702` | <img src="https://github.com/user-attachments/assets/e627a1e5-eb1f-4ed3-910c-4429170d0ee9" width="200" alt="Скриншот видеоадаптера" /> |
+| 2 | Звуковое устройство | `HDAUDIO\FUNC_01&VEN_11D4&DEV_194A&SUBSYS_10280420&REV_1004` | `10.0.17763.8641` | Актуальная версия (обновлений не найдено) |
+| 3 | Процессор | `ACPI\GenuineIntel_-_Intel64_Family_6_Model_23` | `10.0.17763.7553` | <img src="https://github.com/user-attachments/assets/3a462aac-989c-4ddb-a6f1-8b75987ff938" width="200" alt="Скриншот процессора" /> |
+| 4 | Дисковое устройство | `SCSI\DiskKODAK_____SSD_X100_120GBU031` | `10.0.17763.6054` | <img src="https://github.com/user-attachments/assets/bfc71d2b-1f12-47dd-a9eb-2c6ed7462a2e" width="200" alt="Скриншот диска" /> |
+| 5 | Сетевой адаптер | `PCI\VEN_8086&DEV_10DE&SUBSYS_02761028&REV_02` | `12.15.22.6` | <img src="https://github.com/user-attachments/assets/016b9ca4-f163-4358-a98e-8e8ef22cf299" width="200" alt="Скриншот сетевого адаптера" /> |
 
 **Примечание:** ИД оборудования и точные версии драйверов зависят от конкретной конфигурации рабочего места.
 
