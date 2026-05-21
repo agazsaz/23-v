@@ -207,6 +207,8 @@ exit
 ---
 <img width="1341" height="691" alt="image" src="https://github.com/user-attachments/assets/e3c6bb29-910d-4e5b-baf8-7bae427586de" />
 
+<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/4b90e2a9-ba94-4b9b-adfa-a4834e87875c" />
+
 
 # Лабораторная работа: Подключение к Raspberry Pi по VNC и RDP. Копирование файлов через SCP
 
