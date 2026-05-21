@@ -206,6 +206,6 @@ exit
 
 <img width="1341" height="691" alt="image" src="https://github.com/user-attachments/assets/e3c6bb29-910d-4e5b-baf8-7bae427586de" />
 
- # При VNC Rasberry
+ # При VNC Rasberry pI
 
  
